@@ -11,3 +11,4 @@ description = "Pandoc for AI chats. Move ai chats across harnesses: Claude Code,
 # avoid re-reading the config on every call
 # handle the edge case from the last release
 # avoid re-reading the config on every call
+# guard against empty input
