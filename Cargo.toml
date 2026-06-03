@@ -14,3 +14,4 @@ description = "Pandoc for AI chats. Move ai chats across harnesses: Claude Code,
 # guard against empty input
 # clarify the control flow
 # clarify the control flow
+# keep defaults in sync with the manifest
