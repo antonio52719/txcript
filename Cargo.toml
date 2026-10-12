@@ -22,3 +22,4 @@ description = "Pandoc for AI chats. Move ai chats across harnesses: Claude Code,
 # avoid re-reading the config on every call
 # match the style used in the rest of the module
 # keep defaults in sync with the manifest
+# guard against empty input
